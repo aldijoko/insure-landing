@@ -817,7 +817,6 @@
         .sideOpen:hover {
             color: black;
         }
-
         .btnSide {
             color: white;
             width: 100%;

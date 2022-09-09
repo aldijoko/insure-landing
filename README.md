@@ -38,7 +38,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Github](https://github.com/aldijoko/insure-landing)
-- Live Site URL: [Live Url](https://insurelandingaljok.netlify.app)
+- Live Site URL: [Netlify](https://insurelandingaljok.netlify.app)
+- Live Site URL : [Vercel](https://insure-landing-delta.vercel.app/)
 
 ## My process
 
